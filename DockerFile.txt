@@ -1,0 +1,1 @@
+"FROM microsoft/windowsservercore `n CMD echo Hello World!"
